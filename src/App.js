@@ -23,7 +23,7 @@ export default function App() {
                 Paris
               </h1>
               <p class="current-details">
-                <span id="current-date"></span>, moderate rain <br />
+                <span id="current-date"></span>moderate rain <br />
                 Humidity: <strong>87%</strong>, Wind: <strong>7.2km/h</strong>
               </p>
             </div>
